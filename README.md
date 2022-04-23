@@ -32,9 +32,7 @@ The following **optional** features are implemented:
 * [ ] Game button sound is more complex than a single tone (e.g. an audio file, a chord, a sequence of multiple tones)
 * [ ] User has a limited amount of time to enter their guess on each turn
 
-The following **additional** features are implemented:
-
-- [ ] List anything else that you can get done to improve the app!
+No additional features implemented.
 
 ## Video Walkthrough (GIF)
 
@@ -59,7 +57,6 @@ Then, when I tried to generate appropriate values to add to my pattern, I initia
 The light, sound, and memory game created for this submission involves buttons that light up visually and sound effects that indicate the pattern to the player. How could this game be made more accessible to those who are visually impaired or hard of hearing? In general, how can we make websites more accessible to those with disabilities?
 Services like Squarespace and Weebly abstract away the need for programming knowledge so that anyone can easily create a website, but at the cost of flexibility. Is there a way to make web development more accessible without sacrificing flexibility and creativity?
 
-
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
 One feature that I would add if I had more time to work on this project is changing the page to replace the game buttons with a message when the game is over rather than having the win/lose message appear in a dialog box. There would then be a restart button that causes the game buttons to reappear if the player wants to play again.	
 Another feature I would add is turning it into a multiplayer game where one player provides the pattern and the second player repeats the pattern. This could be accomplished by using the existing layout and having the buttons switch functions between setting and guessing the pattern. Alternatively the page could be designed so that it can be loaded in two separate windows, where the setter and guesser players play on different windows. The two sessions can be synchronized by using a randomly generated numerical code that both users enter. In this way, players who are not physically together could play against each other over the internet.
@@ -67,7 +64,7 @@ Another feature I would add is turning it into a multiplayer game where one play
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
+https://drive.google.com/file/d/1oAGQCPnrkvmk1ymTESWUU49ej2bdBUom/view?usp=sharing
 
 
 ## License
