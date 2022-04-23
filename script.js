@@ -25,7 +25,7 @@ function startGame(){
   document.getElementById("startBtn").classList.add("hidden");
   document.getElementById("stopBtn").classList.remove("hidden");
   
-  generatePattern(5);
+  generatePattern(3);
   playClueSequence();
 }
 
@@ -47,11 +47,11 @@ function generatePattern(len){
 
 // Sound Synthesis Functions
 const freqMap = {
-  1: 261.6,
-  2: 329.6,
-  3: 392,
-  4: 466.2,
-  5: 525
+  1: 262.8,
+  2: 295,
+  3: 331.1,
+  4: 393.8,
+  5: 442
 }
 
 function playTone(btn,len){ 
